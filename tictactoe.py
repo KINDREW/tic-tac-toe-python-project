@@ -1,4 +1,4 @@
-fimport pygame as pg,sys
+import pygame as pg,sys
 from pygame.locals import *
 import time
 
@@ -194,3 +194,5 @@ while(True):
             
     pg.display.update()
     CLOCK.tick(fps)
+
+#Developed by Andrew Afful
